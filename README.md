@@ -1,5 +1,7 @@
 # Brain Tumor Detection using MATLAB
 
+UE22CS221B - Image Processing and Data Visualization using MATLAB course project
+
 This project is a MATLAB-based GUI application that allows users to detect brain tumors in MRI images using basic image processing techniques. It is built using App Designer and provides an intuitive interface to upload an image, apply median filtering, detect edges, and highlight potential tumor regions.
 
 ---
